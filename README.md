@@ -44,7 +44,7 @@ Using historical customer demographics and transaction data, this project dives 
 
 ### RFM Analysis Dashboard
 
-<img width="900" height="800" alt="image" src="https://github.com/user-attachments/assets/687e810d-f1fe-4d61-a811-faa477b04abb" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/78647ecb-9a70-4216-87b8-e249ac219638" />
 
 ---
 
