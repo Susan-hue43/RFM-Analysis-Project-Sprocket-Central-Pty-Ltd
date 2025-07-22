@@ -1,5 +1,9 @@
 # RFM Analysis Project – Sprocket Central Pty Ltd
+<img width="1536" height="1024" alt="20250722_1735_RFM Analytics Visual_simple_compose_01k0s8wcxxecy8j3emwnp698ss" src="https://github.com/user-attachments/assets/e4f04e74-de6d-460f-9038-a1c27484f150" />
 
+*Image credit:Sora*
+
+---
 ## Introduction
 
 Customers are at the heart of every successful business. Understanding who they are, how they behave, and what they value enables companies to make informed decisions, build stronger relationships, and maximize the return on marketing efforts. Inspired by this principle, this bonus project builds upon the customer analysis previously conducted on Sprocket Central Pty Ltd during the KPMG Data Analytics Virtual Internship on [Forage](https://www.theforage.com).
@@ -28,17 +32,17 @@ Using historical customer demographics and transaction data, this project dives 
 
 ##  Tools Used
 
-* **Excel** (Power Query, Pivot Tables, Dashboard Design, Slicers)
+* **Excel** (Power Query, Pivot Tables, Dashboard Design, Slicers).
 
 ---
 
 ## Skills Demonstrated
 
-* **Data Cleaning & Preparation** in Power Query
-* **RFM Scoring** and segmentation logic
-* **Data Visualization** using Excel charts and slicers
-* **Dashboard Design** with a focus on usability and storytelling
-* **Strategic Thinking** in interpreting customer value metrics
+* **Data Cleaning & Preparation** in Power Query.
+* **RFM Scoring** and segmentation logic.
+* **Data Visualization** using Excel charts and slicers.
+* **Dashboard Design** with a focus on usability and storytelling.
+* **Strategic Thinking** in interpreting customer value metrics.
 
 ---
 
@@ -47,10 +51,6 @@ Using historical customer demographics and transaction data, this project dives 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/78647ecb-9a70-4216-87b8-e249ac219638" />
 
 **Dashboard PDF:** For a clearer view of the final dashboard, [click here to view the full PDF version](./RFM%20Dashboard.pdf).
-
----
-
-Would you like me to apply that change now?
 
 ---
 
