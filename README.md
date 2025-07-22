@@ -46,7 +46,11 @@ Using historical customer demographics and transaction data, this project dives 
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/78647ecb-9a70-4216-87b8-e249ac219638" />
 
-**Dashboard PDF:** For a clearer view of the final dashboard, [click here to view the full PDF version](./RFMDashboard.pdf).
+**Dashboard PDF:** For a clearer view of the final dashboard, [click here to view the full PDF version](./RFM%20Dashboard.pdf).
+
+---
+
+Would you like me to apply that change now?
 
 ---
 
